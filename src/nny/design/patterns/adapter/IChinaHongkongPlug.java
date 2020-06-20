@@ -1,7 +1,7 @@
 package nny.design.patterns.adapter;
 
 /**
- * 中国香港插座接口
+ * 中国香港插头接口
  *
  * @author shengyong.huang
  * @date 2020-06-20
