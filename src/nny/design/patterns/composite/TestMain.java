@@ -8,7 +8,8 @@ package nny.design.patterns.composite;
  */
 public class TestMain {
     public static void main(String[] args) {
-        /**
+
+        /*
          * 我们先建立一个这样的文件系统
          * 总文件
          *
