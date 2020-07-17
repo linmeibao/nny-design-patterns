@@ -2,6 +2,7 @@ package nny.design.patterns.state;
 
 /**
  * 订单结束状态
+ *
  * @author shengyong.huang
  * @date 2020-07-06
  */
